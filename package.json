@@ -1,0 +1,27 @@
+{
+  "name": "wolt",
+  "version": "0.1.0",
+  "description": "Minimalists synchronous build tasks assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nick133/wolt.git"
+  },
+  "keywords": [
+    "gulp",
+    "grunt",
+    "webpack",
+    "task",
+    "dependency",
+    "build"
+  ],
+  "author": "nick133",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nick133/wolt/issues"
+  },
+  "homepage": "https://github.com/nick133/wolt#readme"
+}
